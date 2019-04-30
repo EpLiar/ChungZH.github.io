@@ -1,11 +1,11 @@
 ---
 title: 创建 Vuepress 博客并使用 Git 管理
-tags:
-- Vuepress
-- Git
-- Blog
-date: 2019/03/02 12:28:00
-vssue-title: create-vuepress-blog-and-use-git-manger-it
+date: 2019-03-02
+#tags:
+#- Vuepress
+#- Git
+#- Blog
+#vssue-title: create-vuepress-blog-and-use-git-manger-it
 ---
 
 > Vuepress 是 Evan You 编写的一个 Vue 驱动的静态网站生成器，一般用于创建文档网站、博客网站。

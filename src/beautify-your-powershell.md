@@ -1,10 +1,10 @@
 ---
 title: 美化你的 Powershell
-tags: 
-- Powershell
-- 终端
-date: 2019/02/23 11:50:00
-vssue-title: beautify-your-powershell
+date: 2019-02-25
+#tags: 
+#- Powershell
+#- 终端
+#vssue-title: beautify-your-powershell
 ---
 
 Powershell 源代码仓库🔗 [🎉🎉🎉Powershell/Powershell](https://github.com/PowerShell/PowerShell)

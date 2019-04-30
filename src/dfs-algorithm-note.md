@@ -1,14 +1,14 @@
 ---
 title: 深度优先搜索浅析 - 算法笔记
-tags: 
-    - 编程
-    - C++
-    - 算法
-    - 搜索
-    - 深度优先搜索
-    - DFS
-date: 2019/02/23 11:47:00
-vssue-title: dfs-algorithm-note
+date: 2019-02-21
+#tags: 
+    #- 编程
+    #- C++
+    #- 算法
+    #- 搜索
+    #- 深度优先搜索
+    #- DFS
+#vssue-title: dfs-algorithm-note
 ---
 
 大家好，今天我们来学习`深度优先搜索（DFS）` 。

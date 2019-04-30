@@ -687,28 +687,12 @@
     "@vssue/utils" "^0.5.3"
     axios "^0.18.0"
 
-"@vssue/api-bitbucket-v2@^0.8.1":
-  version "0.8.1"
-  resolved "https://registry.yarnpkg.com/@vssue/api-bitbucket-v2/-/api-bitbucket-v2-0.8.1.tgz#b725022c0eb75f6ec8dc015f0a1989c975b292dc"
-  integrity sha512-hyETUEJHZWiejqNjdrQWkf5W8nA6ZIwkfxcjhRN6z9Gdc3bwa1ScongpJa5YUk8AoBkHwDh6Ci/Lgs+gb8EKiQ==
-  dependencies:
-    "@vssue/utils" "^0.8.1"
-    axios "^0.18.0"
-
 "@vssue/api-github-v3@^0.5.3":
   version "0.5.3"
   resolved "https://registry.yarnpkg.com/@vssue/api-github-v3/-/api-github-v3-0.5.3.tgz#a7a639df9cbc107ca8160aae6b541e9e348b9afb"
   integrity sha512-4BChxsUKVJWEwZpR5PXxfcfDNza/bTnd6SC1pEBlvkNZzFk0muLjZAm9CR0J4Qh3ZWtKg3jUhW/XD0fCcL4GsA==
   dependencies:
     "@vssue/utils" "^0.5.3"
-    axios "^0.18.0"
-
-"@vssue/api-github-v3@^0.8.1":
-  version "0.8.1"
-  resolved "https://registry.yarnpkg.com/@vssue/api-github-v3/-/api-github-v3-0.8.1.tgz#208ba9282b514bf1f0f0e86896b1f3ccc38dac9b"
-  integrity sha512-+NNB24Tlvyp4x7IoKIKBig7OUzpdJumJBDS40djq/9KPZjFT6VsMWfGuZHKwQVt+sOVod/9lFBZ5kQmvNyO9VQ==
-  dependencies:
-    "@vssue/utils" "^0.8.1"
     axios "^0.18.0"
 
 "@vssue/api-gitlab-v4@^0.5.3":
@@ -719,26 +703,10 @@
     "@vssue/utils" "^0.5.3"
     axios "^0.18.0"
 
-"@vssue/api-gitlab-v4@^0.8.1":
-  version "0.8.1"
-  resolved "https://registry.yarnpkg.com/@vssue/api-gitlab-v4/-/api-gitlab-v4-0.8.1.tgz#c5ef3a4086f96cba8f1856fc82a45b068439f383"
-  integrity sha512-bpj86HQb5SKnORVLXBgohcSyFJrJhFdUHbcycDb1k0kmseXYtUjLhLtPtf145yOT4LM+j64fJIw/FHa+NYUTlQ==
-  dependencies:
-    "@vssue/utils" "^0.8.1"
-    axios "^0.18.0"
-
 "@vssue/utils@^0.5.3":
   version "0.5.3"
   resolved "https://registry.yarnpkg.com/@vssue/utils/-/utils-0.5.3.tgz#581bd46a6dde9f761f212e6fdd701e06e58b9b79"
   integrity sha512-vSMe4M8pkHSCNGTTQ7TCKDu7vg3MNQo5iZDss8hEMFl+7Rc6946Intw9eb+6QWD5YhWbS2PuZsoRfupJfiA19g==
-  dependencies:
-    date-fns "^1.29.0"
-    qs "^6.6.0"
-
-"@vssue/utils@^0.8.1":
-  version "0.8.1"
-  resolved "https://registry.yarnpkg.com/@vssue/utils/-/utils-0.8.1.tgz#75d050279761705f4f93c56f5033bb6c64516f4c"
-  integrity sha512-dHxYR85IKUCxlZBk/hjfl+AkxbxtsS8DyKrp2dRXsTRaI0mZSDe4O6mj4XXFtlLBdPr18Lxle+XqjQNupl3y0Q==
   dependencies:
     date-fns "^1.29.0"
     qs "^6.6.0"
@@ -752,16 +720,6 @@
     "@vssue/api-github-v3" "^0.5.3"
     "@vssue/api-gitlab-v4" "^0.5.3"
     vssue "^0.5.3"
-
-"@vssue/vuepress-plugin-vssue@^0.8.1":
-  version "0.8.1"
-  resolved "https://registry.yarnpkg.com/@vssue/vuepress-plugin-vssue/-/vuepress-plugin-vssue-0.8.1.tgz#cbcefb4a3d99d6710b0ba8f8d1964f701963bb30"
-  integrity sha512-AhVswypp3CrKSW4D8lAIrEcyXMfkg8pktiUkoXJqdMO0UtYI3byUyx7KCwQaRboFAEuJa0gV4owjFU6TUikBLg==
-  dependencies:
-    "@vssue/api-bitbucket-v2" "^0.8.1"
-    "@vssue/api-github-v3" "^0.8.1"
-    "@vssue/api-gitlab-v4" "^0.8.1"
-    vssue "^0.8.1"
 
 "@vue/babel-helper-vue-jsx-merge-props@^1.0.0-beta.2":
   version "1.0.0-beta.2"
@@ -930,13 +888,6 @@
   dependencies:
     lodash.throttle "^4.1.1"
 
-"@vuepress/plugin-back-to-top@1.0.0-alpha.44":
-  version "1.0.0-alpha.44"
-  resolved "https://registry.yarnpkg.com/@vuepress/plugin-back-to-top/-/plugin-back-to-top-1.0.0-alpha.44.tgz#e480c23283118a8c90c3291ad1acbae593cf333c"
-  integrity sha512-h2jbvWEDwphoQQ6dq+dvEcFc4gbXFSuUgA7yqfQkqTdtxLnEOkFV5CXoUKhMMJyPR4PqBO6Z4n361BYpSvTwuQ==
-  dependencies:
-    lodash.debounce "^4.0.8"
-
 "@vuepress/plugin-back-to-top@^1.0.0-alpha.35":
   version "1.0.0-alpha.39"
   resolved "https://registry.yarnpkg.com/@vuepress/plugin-back-to-top/-/plugin-back-to-top-1.0.0-alpha.39.tgz#bc14f2464894da6e468c4be7ab71583391c5fcb4"
@@ -956,15 +907,17 @@
   dependencies:
     markdown-it-container "^2.0.0"
 
-"@vuepress/plugin-google-analytics@1.0.0-alpha.44":
-  version "1.0.0-alpha.44"
-  resolved "https://registry.yarnpkg.com/@vuepress/plugin-google-analytics/-/plugin-google-analytics-1.0.0-alpha.44.tgz#5fa4edc341cffc634804c6f72db076fd0bffc3c0"
-  integrity sha512-oBFXHlO5I3M0jGg/Ob8WsVY1g+4Xcm6AT70m89/RB3GjHhPHMDF0bRCyoLOzLzVnWUEqOH/0HbDDK0MnGFGB8w==
-
 "@vuepress/plugin-google-analytics@^1.0.0-alpha.0":
   version "1.0.0-alpha.0"
   resolved "https://registry.yarnpkg.com/@vuepress/plugin-google-analytics/-/plugin-google-analytics-1.0.0-alpha.0.tgz#97acb3a512dca9b2b6e4014fa2d58da38e2a01b9"
   integrity sha512-WNUIayJFBmTb06bjvFeJd5TlT4qoYcCLN15zkEGeAGH8tCH2BtrwMkSG3BiiWSh3xRUy7kDHhsuclSZcRY08EQ==
+
+"@vuepress/plugin-last-updated@^1.0.0-alpha.0":
+  version "1.0.0-alpha.0"
+  resolved "https://registry.yarnpkg.com/@vuepress/plugin-last-updated/-/plugin-last-updated-1.0.0-alpha.0.tgz#e4d4d8665dea30f8213f4525d88921abee1cdafc"
+  integrity sha512-7g4/cJHTNlV2319YjZUgu4U10aiGwJcPBYbVyLtaL5AMox7YWDD/L89pscUgVdkK6hMx5HYADa81GgCSivj1eg==
+  dependencies:
+    cross-spawn "^6.0.5"
 
 "@vuepress/plugin-last-updated@^1.0.0-alpha.44":
   version "1.0.0-alpha.44"
@@ -5608,6 +5561,13 @@ prismjs@^1.13.0:
   optionalDependencies:
     clipboard "^2.0.0"
 
+prismjs@^1.15.0:
+  version "1.16.0"
+  resolved "https://registry.yarnpkg.com/prismjs/-/prismjs-1.16.0.tgz#406eb2c8aacb0f5f0f1167930cb83835d10a4308"
+  integrity sha512-OA4MKxjFZHSvZcisLGe14THYsug/nF6O1f0pAJc0KN0wTyAcLqmsbE+lTGKSpyh+9pEW57+k6pg2AfYR+coyHA==
+  optionalDependencies:
+    clipboard "^2.0.0"
+
 private@^0.1.6:
   version "0.1.8"
   resolved "https://registry.yarnpkg.com/private/-/private-0.1.8.tgz#2381edb3689f7a53d653190060fcf822d2f368ff"
@@ -6700,6 +6660,11 @@ thunky@^1.0.2:
   resolved "https://registry.yarnpkg.com/thunky/-/thunky-1.0.3.tgz#f5df732453407b09191dae73e2a8cc73f381a826"
   integrity sha512-YwT8pjmNcAXBZqrubu22P4FYsh2D4dxRmnWBOL8Jk8bUcRUtc5326kx32tuTmFDAZtLOGEVNl8POAR8j896Iow==
 
+timeago.js@^4.0.0-beta.2:
+  version "4.0.0-beta.2"
+  resolved "https://registry.yarnpkg.com/timeago.js/-/timeago.js-4.0.0-beta.2.tgz#4e50a7250626b67e168a934d5e15052119366db1"
+  integrity sha512-MQkHiYGoB6qZC4DNWsLc9bav+L9hpdulL6sL7okzKR8r1Ipask/tXKAio8T+4jeby8FbpbDvbnCKGrh1bLop3g==
+
 timers-browserify@^2.0.4:
   version "2.0.10"
   resolved "https://registry.yarnpkg.com/timers-browserify/-/timers-browserify-2.0.10.tgz#1d28e3d2aadf1d5a5996c4e9f95601cd053480ae"
@@ -7034,17 +6999,6 @@ vssue@^0.5.3:
     vue-i18n "^8.7.0"
     vue-property-decorator "^7.2.0"
 
-vssue@^0.8.1:
-  version "0.8.1"
-  resolved "https://registry.yarnpkg.com/vssue/-/vssue-0.8.1.tgz#8667d589f4882d2ce5a6f977f463584c724542a1"
-  integrity sha512-836PfykguJDVnfSIApod000tzemqiwN96kEHhOIcuAcwk23A8IZhEWMz4OPRwPr3Ncu3v8EKVvcBfUfCd9icGg==
-  dependencies:
-    "@vssue/utils" "^0.8.1"
-    github-markdown-css "^2.10.0"
-    vue "^2.5.21"
-    vue-i18n "^8.7.0"
-    vue-property-decorator "^7.2.0"
-
 vue-class-component@^6.2.0:
   version "6.3.2"
   resolved "https://registry.yarnpkg.com/vue-class-component/-/vue-class-component-6.3.2.tgz#e6037e84d1df2af3bde4f455e50ca1b9eec02be6"
@@ -7171,23 +7125,14 @@ vuepress-plugin-zooming@^1.0.0:
   dependencies:
     zooming "^2.1.1"
 
-vuepress-theme-meteorlxy@^1.0.0-alpha.31:
-  version "1.0.0-alpha.31"
-  resolved "https://registry.yarnpkg.com/vuepress-theme-meteorlxy/-/vuepress-theme-meteorlxy-1.0.0-alpha.31.tgz#d14be63248d2f05ec6ce8fc50247792bdd784a3e"
-  integrity sha512-dsd+wghVnKJnztHjbf8Qjn+cXKiGW4W42FuNFWvyqFn2F9Zv7uzP66rG1t6F5zDraZifnoxowjV6/AvB5Geiww==
+vuepress-theme-simple@^0.6.0:
+  version "0.6.0"
+  resolved "https://registry.yarnpkg.com/vuepress-theme-simple/-/vuepress-theme-simple-0.6.0.tgz#b3396901a6c683a505dee5ce0235ed64f8cde8e9"
+  integrity sha512-3v18pn8J+re1KatI8+jj9a5dVusfi5kMoKDMOQTIaAqQI2B9o2ithvf0L+edaQ14H/Gb3p0dZLcJJlzKXzd2iA==
   dependencies:
-    "@vssue/vuepress-plugin-vssue" "^0.8.1"
-    "@vue/babel-preset-jsx" "^1.0.0-beta.2"
-    "@vuepress/plugin-back-to-top" "1.0.0-alpha.44"
-    "@vuepress/plugin-google-analytics" "1.0.0-alpha.44"
-    date-fns "^1.30.1"
-    geopattern "^1.2.3"
-    lodash.debounce "^4.0.8"
-    lodash.throttle "^4.1.1"
-    vuepress-plugin-container "^1.1.1"
-    vuepress-plugin-nprogress "^1.0.0"
-    vuepress-plugin-smooth-scroll "^0.0.3"
-    vuepress-plugin-zooming "^1.0.0"
+    "@vuepress/plugin-last-updated" "^1.0.0-alpha.0"
+    prismjs "^1.15.0"
+    timeago.js "^4.0.0-beta.2"
 
 vuepress@^1.0.0-alpha.44:
   version "1.0.0-alpha.44"

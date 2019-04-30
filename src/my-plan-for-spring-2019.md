@@ -1,9 +1,9 @@
 ---
 title: My Plan for Spring 2019
-tags: 
-    - 编程
-date: 2019/03/24 11:31:00
-vssue-title: my-plan-for-spring-2019
+date: 2019-03-24
+#tags: 
+    #- 编程
+#vssue-title: my-plan-for-spring-2019
 ---
 
 [GitHub 项目地址](https://github.com/ChungZH/My-Plan)

@@ -1,11 +1,11 @@
 ---
 title: 单链表浅析 - 数据结构笔记
-tags: 
-    - 编程
-    - C++
-    - 数据结构
-date: 2019/02/23 11:46:00
-vssue-title: linklist-data-structure-note
+date: 2019-02-20
+#tags: 
+    #- 编程
+    #- C++
+    #- 数据结构
+#vssue-title: linklist-data-structure-note
 ---
 
 这篇文章我们来学习 `单链表`。

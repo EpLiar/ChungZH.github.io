@@ -1,10 +1,10 @@
 ---
 title: 杂谈 | Jike
-tags:
-- 即刻
-- 杂谈
-date: 2019/02/23 11:49:00
-vssue-title: chaos-jike
+date: 2019-02-24
+#tags:
+#- 即刻
+#- 杂谈
+#vssue-title: chaos-jike
 ---
 
 💡 杂谈

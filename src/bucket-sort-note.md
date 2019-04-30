@@ -1,12 +1,12 @@
 ---
 title: 桶排序（Bucket Sort） - 算法笔记
-tags: 
-    - 编程
-    - 原创
-    - C++
-    - 算法 
-date: 2019/02/23 11:41:00
-vssue-title: Bucket Sort Note
+date: 2019-02-15
+#tags: 
+    #- 编程
+    #- 原创
+    #- C++
+    #- 算法 
+#vssue-title: Bucket Sort Note
 ---
 这篇文章我们来学习一下`桶排序`。
 <!-- More -->

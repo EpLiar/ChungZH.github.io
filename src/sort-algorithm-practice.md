@@ -1,11 +1,11 @@
 ---
 title: 排序练手 - 算法笔记
-tags: 
-    - 编程
-    - C++
-    - 算法
-date: 2019/02/23 11:43:00
-vssue-title: sort-algorithm-practice
+date: 2019-02-16
+#tags: 
+    #- 编程
+    #- C++
+    #- 算法
+#vssue-title: sort-algorithm-practice
 ---
 上几篇文章中我们讲了几个排序算法，分别是 [冒泡排序](https://chungzh.cn/02/) 、 [桶排序](https://chungzh.cn/09/) 和 [快速排序](https://chungzh.cn/10/)。今天我们来做一题有关排序的题目练练手吧。
 

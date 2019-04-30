@@ -1,3 +1,46 @@
+// vuepress-theme-simple
+module.exports = {
+  title: 'ChungZH',
+
+  description: 'ChungZH 的小站',
+
+  head: [
+    ['link', {
+      rel: 'icon',
+      href: '/BlogFavicon16.png'
+    }],
+    ['link', {
+      rel: 'stylesheet',
+      href: 'https://cdn.bootcss.com/font-awesome/4.7.0/css/font-awesome.min.css'
+    }],
+    ['script', {
+      src: '/script/func.js'
+    }],
+  ],
+
+  locales: {
+    '/': { lang: 'zh-CN' },
+  },
+
+  theme: 'simple',
+  themeConfig: {
+    author: 'ChungZH', // will display on the page footer
+    navbar: { // will display below the title
+      // 文章: '/posts/',
+      友链: '/friends/',
+      关于: '/about/'
+    }
+  },
+
+  plugins: {
+    'sitemap': {
+      hostname: 'https://chungzh.cn'
+    },
+  }
+}
+
+// Vuepress-theme-meteorlxy
+/* 
 // .vuepress/config.js
 
 module.exports = {
@@ -136,3 +179,4 @@ module.exports = {
     },
   }
   
+*/

@@ -1,10 +1,10 @@
 ---
 title: 杂谈 | 诸事大吉
-tags:
-- 杂谈
-- 总结
-date: 2019/02/23 11:51:00
-vssue-title: chaos-everything-is-fine
+date: 2019-02-23
+#tags:
+#- 杂谈
+#- 总结
+#vssue-title: chaos-everything-is-fine
 ---
 
 > 过年了，怎么也得写点东西庆祝庆祝吧，顺便也总结一下这一年我干了些什么。

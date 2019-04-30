@@ -1,11 +1,11 @@
 ---
 title: 快速排序（Quick Sort） - 算法笔记
-tags: 
-    - 编程
-    - C++
-    - 算法
-date: 2019/02/23 11:42:00
-vssue-title: Quick Sort Note
+date: 2019-02-18
+#tags: 
+    #- 编程
+    #- C++
+    #- 算法
+#vssue-title: Quick Sort Note
 ---
 
 这篇文章我们来学习`快速排序（Quick Sort)`。

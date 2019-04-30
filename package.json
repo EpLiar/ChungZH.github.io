@@ -23,10 +23,10 @@
     "vuepress-plugin-container": "^1.1.1",
     "vuepress-plugin-nprogress": "^1.0.0",
     "vuepress-plugin-smooth-scroll": "^0.0.3",
-    "vuepress-plugin-zooming": "^1.0.0",
-    "vuepress-theme-meteorlxy": "^1.0.0-alpha.31"
+    "vuepress-plugin-zooming": "^1.0.0"
   },
   "devDependencies": {
-    "vuepress-plugin-sitemap": "^2.1.1"
+    "vuepress-plugin-sitemap": "^2.1.1",
+    "vuepress-theme-simple": "^0.6.0"
   }
 }

@@ -1,13 +1,13 @@
 ---
 title: 蛇形矩阵 - 日常刷题
-tags: 
-- 编程
-- C++
-- 蛇形矩阵
-- 刷题
-- 算法
-date: 2019/02/23 11:48:00
-vssue-title: snake-matrix-note
+date: 2019-02-17
+#tags: 
+#- 编程
+#- C++
+#- 蛇形矩阵
+#- 刷题
+#- 算法
+#vssue-title: snake-matrix-note
 ---
 
 >  经过九九八十一天的刷题之后，本蒟蒻终于刷到蛇形矩阵了......
@@ -37,7 +37,7 @@ vssue-title: snake-matrix-note
 - `num`：输出的结果
 - `i`：行   `j`：列
 
-```c++
+```cpp
 #include <iostream>
 #include <algorithm>
 using namespace std;
@@ -48,7 +48,7 @@ int main()
     cin >> n;
     for (int i = 1; i <= n; i++)
     {
-        int num;            	// 如果是练习，使用数组更好。我这里用一个变量是为了过评测系统
+        int num;            	
         if (i % 2 == 0)
         {
             t+=n-1;				// 倒着放数字
@@ -117,7 +117,7 @@ int main()
 - `lnu`： 每行数字的个数
 - `i`：行   `j`：列
 
-```c++
+```cpp
 #include <bits/stdc++.h>
 using namespace std;
 int main()
@@ -191,7 +191,7 @@ int main()
 - `a`：存储蛇形矩阵的数组
 - 请不要问我循环条件是怎么想出来的！！！keso......
 
-```c++
+```cpp
 #include <iostream>
 using namespace std;
 int main()

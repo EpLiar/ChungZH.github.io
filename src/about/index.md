@@ -1,6 +1,6 @@
 ---
-#layout: page
 title: 关于
+date: 2019-4-30
 ---
 
 Hello~
@@ -28,3 +28,4 @@ Hello~
   
   你可以在这里[「GitHub - @ChungZH」](https://github.com/ChungZH) 看到我的一些项目。
 - 一个 **小学生**，在读五年级。
+

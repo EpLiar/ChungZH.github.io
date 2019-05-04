@@ -7125,10 +7125,10 @@ vuepress-plugin-zooming@^1.0.0:
   dependencies:
     zooming "^2.1.1"
 
-vuepress-theme-simple@^0.6.0:
-  version "0.6.0"
-  resolved "https://registry.yarnpkg.com/vuepress-theme-simple/-/vuepress-theme-simple-0.6.0.tgz#b3396901a6c683a505dee5ce0235ed64f8cde8e9"
-  integrity sha512-3v18pn8J+re1KatI8+jj9a5dVusfi5kMoKDMOQTIaAqQI2B9o2ithvf0L+edaQ14H/Gb3p0dZLcJJlzKXzd2iA==
+vuepress-theme-simple@^0.6.1:
+  version "0.6.1"
+  resolved "https://registry.yarnpkg.com/vuepress-theme-simple/-/vuepress-theme-simple-0.6.1.tgz#911a41b5cd09930a5ae10e12b8ecca2203db9475"
+  integrity sha512-csYsgKKH3D1lqoRJHRJ29DhCY6Agog5r/WC+ht6Gg+NN9AjGF32HLXf8Fl5ZL4jqVl65SSpiMgIg5MX8xJuSLA==
   dependencies:
     "@vuepress/plugin-last-updated" "^1.0.0-alpha.0"
     prismjs "^1.15.0"
